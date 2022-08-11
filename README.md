@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=yukihooked)](https://github.com/yukihooked/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yukihooked&theme=github_dark)](https://github.com/yukihooked/github-readme-stats)
 
 
 <!--
