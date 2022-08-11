@@ -2,7 +2,7 @@
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yukihooked&theme=github_dark)](https://github.com/yukihooked/github-readme-stats)
-[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukihooked)](https://github.com/yukihooked/github-readme-stats)
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukihooked&theme=github_dark)](https://github.com/yukihooked/github-readme-stats)
 
 
 <!--
